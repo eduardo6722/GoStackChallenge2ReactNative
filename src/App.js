@@ -14,7 +14,6 @@ import api from './services/api';
 
 export default function App() {
   const [projects, setProjects] = React.useState([]);
-  const [project, setProject] = React.useState({});
 
   const fetchData = async () => {
     try {
