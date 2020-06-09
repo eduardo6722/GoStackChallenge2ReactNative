@@ -23,7 +23,7 @@ Build and start the project
 react-native run-android
 ```
 
-Alternative after running the past commando, use:
+Alternatively after running the past command, use:
 
 ```bash
 react-native start
